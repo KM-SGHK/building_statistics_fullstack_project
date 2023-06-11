@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 0,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 1,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 2,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 3,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 4,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 5,
+    "location": "Kowloon",
+    "building_year": 2012,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 6,
+    "location": "Kowloon",
+    "building_year": 2013,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 7,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 8,
+    "location": "Hong Kong Island",
+    "building_year": 1973,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 9,
+    "location": "Hong Kong Island",
+    "building_year": 2014,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 10,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 11,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 12,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 13,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 14,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 15,
+    "location": "Kowloon",
+    "building_year": 2019,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 16,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 17,
+    "location": "Hong Kong Island",
+    "building_year": 1983,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 18,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 19,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 20,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 21,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 22,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 23,
+    "location": "Kowloon",
+    "building_year": 2015,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 24,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 25,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 26,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 27,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 28,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 29,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 30,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 31,
+    "location": "Kowloon",
+    "building_year": 2007,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 32,
+    "location": "New Territories",
+    "building_year": 2008,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 33,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 34,
+    "location": "New Territories",
+    "building_year": 1987,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 35,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 36,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 37,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 38,
+    "location": "Kowloon",
+    "building_year": 1982,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 39,
+    "location": "New Territories",
+    "building_year": 2018,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 40,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 41,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 42,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 43,
+    "location": "Kowloon",
+    "building_year": 2019,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 44,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 45,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 46,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 47,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 48,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 49,
+    "location": "New Territories",
+    "building_year": 2018,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 50,
+    "location": "New Territories",
+    "building_year": 2014,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 51,
+    "location": "New Territories",
+    "building_year": 1998,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 52,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 53,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 54,
+    "location": "New Territories",
+    "building_year": 2001,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 55,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 56,
+    "location": "Kowloon",
+    "building_year": 1986,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 57,
+    "location": "Hong Kong Island",
+    "building_year": 1992,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 58,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 59,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 60,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 61,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 62,
+    "location": "Kowloon",
+    "building_year": 1975,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 63,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 64,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 65,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 66,
+    "location": "Kowloon",
+    "building_year": 2006,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 67,
+    "location": "Hong Kong Island",
+    "building_year": 2011,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 68,
+    "location": "Hong Kong Island",
+    "building_year": 1987,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 69,
+    "location": "New Territories",
+    "building_year": 1987,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 70,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 71,
+    "location": "Kowloon",
+    "building_year": 1986,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 72,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 73,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 74,
+    "location": "Kowloon",
+    "building_year": 1973,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 75,
+    "location": "New Territories",
+    "building_year": 2019,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 76,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 77,
+    "location": "Kowloon",
+    "building_year": 1976,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 78,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 79,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 80,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 81,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 82,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 83,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 84,
+    "location": "Kowloon",
+    "building_year": 1998,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 85,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 86,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 87,
+    "location": "Hong Kong Island",
+    "building_year": 2006,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 88,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 89,
+    "location": "Kowloon",
+    "building_year": 1977,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 90,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 91,
+    "location": "Kowloon",
+    "building_year": 2022,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 92,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 93,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 94,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 95,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 96,
+    "location": "Hong Kong Island",
+    "building_year": 1998,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 97,
+    "location": "Hong Kong Island",
+    "building_year": 1994,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 98,
+    "location": "New Territories",
+    "building_year": 1987,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 99,
+    "location": "Kowloon",
+    "building_year": 1976,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 100,
+    "location": "Hong Kong Island",
+    "building_year": 1973,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 101,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 102,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 103,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 104,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 105,
+    "location": "Hong Kong Island",
+    "building_year": 1987,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 106,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 107,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 108,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 109,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 110,
+    "location": "Kowloon",
+    "building_year": 1989,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 111,
+    "location": "Kowloon",
+    "building_year": 2016,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 112,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 113,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 114,
+    "location": "Hong Kong Island",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 115,
+    "location": "Hong Kong Island",
+    "building_year": 2011,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 116,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 117,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 118,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 119,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 120,
+    "location": "New Territories",
+    "building_year": 1989,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 121,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 122,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 123,
+    "location": "New Territories",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 124,
+    "location": "Kowloon",
+    "building_year": 2018,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 125,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 126,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 127,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 128,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 129,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 130,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 131,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 132,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 133,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 134,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 135,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 136,
+    "location": "New Territories",
+    "building_year": 2011,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 137,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 138,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 139,
+    "location": "Kowloon",
+    "building_year": 2002,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 140,
+    "location": "Hong Kong Island",
+    "building_year": 1999,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 141,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 142,
+    "location": "Hong Kong Island",
+    "building_year": 1994,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 143,
+    "location": "New Territories",
+    "building_year": 1998,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 144,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 145,
+    "location": "Kowloon",
+    "building_year": 2018,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 146,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 147,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 148,
+    "location": "Kowloon",
+    "building_year": 2014,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 149,
+    "location": "Hong Kong Island",
+    "building_year": 2012,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 150,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 151,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 152,
+    "location": "Hong Kong Island",
+    "building_year": 2018,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 153,
+    "location": "Hong Kong Island",
+    "building_year": 2004,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 154,
+    "location": "Kowloon",
+    "building_year": 2009,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 155,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 156,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 157,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 158,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 159,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 160,
+    "location": "Hong Kong Island",
+    "building_year": 2004,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 161,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 162,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 163,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 164,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 165,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 166,
+    "location": "Kowloon",
+    "building_year": 2002,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 167,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 168,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 169,
+    "location": "Hong Kong Island",
+    "building_year": 1995,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 170,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 171,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 172,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 173,
+    "location": "Kowloon",
+    "building_year": 1977,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 174,
+    "location": "Hong Kong Island",
+    "building_year": 1997,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 175,
+    "location": "Hong Kong Island",
+    "building_year": 1995,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 176,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 177,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 178,
+    "location": "Hong Kong Island",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 179,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 180,
+    "location": "Kowloon",
+    "building_year": 1974,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 181,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 182,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 183,
+    "location": "Hong Kong Island",
+    "building_year": 1975,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 184,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 185,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 186,
+    "location": "Kowloon",
+    "building_year": 2013,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 187,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 188,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 189,
+    "location": "Kowloon",
+    "building_year": 1982,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 190,
+    "location": "Kowloon",
+    "building_year": 1977,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 191,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 192,
+    "location": "New Territories",
+    "building_year": 2020,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 193,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 194,
+    "location": "Hong Kong Island",
+    "building_year": 2012,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 195,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 196,
+    "location": "Kowloon",
+    "building_year": 2012,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 197,
+    "location": "Kowloon",
+    "building_year": 1974,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 198,
+    "location": "Kowloon",
+    "building_year": 1983,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 199,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 200,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 201,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 202,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 203,
+    "location": "Hong Kong Island",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 204,
+    "location": "Kowloon",
+    "building_year": 1980,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 205,
+    "location": "Hong Kong Island",
+    "building_year": 1984,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 206,
+    "location": "Kowloon",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 207,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 208,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 209,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 210,
+    "location": "Hong Kong Island",
+    "building_year": 1979,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 211,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 212,
+    "location": "Hong Kong Island",
+    "building_year": 1995,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 213,
+    "location": "Hong Kong Island",
+    "building_year": 2005,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 214,
+    "location": "New Territories",
+    "building_year": 1973,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 215,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 216,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 217,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 218,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 219,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 220,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 221,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 222,
+    "location": "Hong Kong Island",
+    "building_year": 1978,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 223,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 224,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 225,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 226,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 227,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 228,
+    "location": "Hong Kong Island",
+    "building_year": 1984,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 229,
+    "location": "Hong Kong Island",
+    "building_year": 2006,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 230,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 231,
+    "location": "Kowloon",
+    "building_year": 1998,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 232,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 233,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 234,
+    "location": "Kowloon",
+    "building_year": 2012,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 235,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 236,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 237,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 238,
+    "location": "New Territories",
+    "building_year": 1989,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 239,
+    "location": "Kowloon",
+    "building_year": 2022,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 240,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 241,
+    "location": "Hong Kong Island",
+    "building_year": 1975,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 242,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 243,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 244,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 245,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 246,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 247,
+    "location": "Hong Kong Island",
+    "building_year": 2018,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 248,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 249,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 250,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 251,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 252,
+    "location": "Kowloon",
+    "building_year": 1982,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 253,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 254,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 255,
+    "location": "Hong Kong Island",
+    "building_year": 1973,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 256,
+    "location": "Kowloon",
+    "building_year": 2015,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 257,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 258,
+    "location": "Hong Kong Island",
+    "building_year": 1991,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 259,
+    "location": "Hong Kong Island",
+    "building_year": 1987,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 260,
+    "location": "Kowloon",
+    "building_year": 1976,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 261,
+    "location": "Hong Kong Island",
+    "building_year": 1978,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 262,
+    "location": "New Territories",
+    "building_year": 1975,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 263,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 264,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 265,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 266,
+    "location": "Kowloon",
+    "building_year": 2019,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 267,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 268,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 269,
+    "location": "Hong Kong Island",
+    "building_year": 2012,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 270,
+    "location": "New Territories",
+    "building_year": 1985,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 271,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 272,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 273,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 274,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 275,
+    "location": "Hong Kong Island",
+    "building_year": 1979,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 276,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 277,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 278,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 279,
+    "location": "Kowloon",
+    "building_year": 1977,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 280,
+    "location": "Hong Kong Island",
+    "building_year": 1984,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 281,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 282,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 283,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 284,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 285,
+    "location": "Hong Kong Island",
+    "building_year": 2017,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 286,
+    "location": "Hong Kong Island",
+    "building_year": 2017,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 287,
+    "location": "Hong Kong Island",
+    "building_year": 1980,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 288,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 289,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 290,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 291,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 292,
+    "location": "Hong Kong Island",
+    "building_year": 1999,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 293,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 294,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 295,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 296,
+    "location": "Hong Kong Island",
+    "building_year": 2014,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 297,
+    "location": "New Territories",
+    "building_year": 2018,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 298,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 299,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 300,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 301,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 302,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 303,
+    "location": "Hong Kong Island",
+    "building_year": 1999,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 304,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 305,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 306,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 307,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 308,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 309,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 310,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 311,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 312,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 313,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 314,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 315,
+    "location": "Kowloon",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 316,
+    "location": "Hong Kong Island",
+    "building_year": 2022,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 317,
+    "location": "New Territories",
+    "building_year": 2011,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 318,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 319,
+    "location": "Kowloon",
+    "building_year": 1973,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 320,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 321,
+    "location": "New Territories",
+    "building_year": 2021,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 322,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 323,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 324,
+    "location": "Kowloon",
+    "building_year": 1983,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 325,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 326,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 327,
+    "location": "Hong Kong Island",
+    "building_year": 2015,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 328,
+    "location": "New Territories",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 329,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 330,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 331,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 332,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 333,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 334,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 335,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 336,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 337,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 338,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 339,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 340,
+    "location": "New Territories",
+    "building_year": 2008,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 341,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 342,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 343,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 344,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 345,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 346,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 347,
+    "location": "New Territories",
+    "building_year": 2008,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 348,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 349,
+    "location": "New Territories",
+    "building_year": 1985,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 350,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 351,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 352,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 353,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 354,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 355,
+    "location": "New Territories",
+    "building_year": 2008,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 356,
+    "location": "New Territories",
+    "building_year": 2021,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 357,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 358,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 359,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 360,
+    "location": "New Territories",
+    "building_year": 1978,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 361,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 362,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 363,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 364,
+    "location": "New Territories",
+    "building_year": 2014,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 365,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 366,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 367,
+    "location": "Hong Kong Island",
+    "building_year": 1991,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 368,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 369,
+    "location": "Kowloon",
+    "building_year": 2019,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 370,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 371,
+    "location": "Kowloon",
+    "building_year": 1975,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 372,
+    "location": "Hong Kong Island",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 373,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 374,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 375,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 376,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 377,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 378,
+    "location": "Hong Kong Island",
+    "building_year": 1976,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 379,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 380,
+    "location": "Kowloon",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 381,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 382,
+    "location": "Kowloon",
+    "building_year": 1977,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 383,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 384,
+    "location": "New Territories",
+    "building_year": 1975,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 385,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 386,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 387,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 388,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 389,
+    "location": "Kowloon",
+    "building_year": 2002,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 390,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 391,
+    "location": "Kowloon",
+    "building_year": 1984,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 392,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 393,
+    "location": "Hong Kong Island",
+    "building_year": 1994,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 394,
+    "location": "Kowloon",
+    "building_year": 1998,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 395,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 396,
+    "location": "Hong Kong Island",
+    "building_year": 1987,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 397,
+    "location": "New Territories",
+    "building_year": 1990,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 398,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 399,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 400,
+    "location": "Kowloon",
+    "building_year": 2011,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 401,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 402,
+    "location": "Kowloon",
+    "building_year": 1987,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 403,
+    "location": "Kowloon",
+    "building_year": 2013,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 404,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 405,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 406,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 407,
+    "location": "Kowloon",
+    "building_year": 1974,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 408,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 409,
+    "location": "Kowloon",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 410,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 411,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 412,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 413,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 414,
+    "location": "Kowloon",
+    "building_year": 1987,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 415,
+    "location": "New Territories",
+    "building_year": 2022,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 416,
+    "location": "New Territories",
+    "building_year": 2020,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 417,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 418,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 419,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 420,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 421,
+    "location": "Kowloon",
+    "building_year": 1980,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 422,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 423,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 424,
+    "location": "Kowloon",
+    "building_year": 1998,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 425,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 426,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 427,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 428,
+    "location": "Kowloon",
+    "building_year": 1975,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 429,
+    "location": "Hong Kong Island",
+    "building_year": 2012,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 430,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 431,
+    "location": "Hong Kong Island",
+    "building_year": 1996,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 432,
+    "location": "Kowloon",
+    "building_year": 2022,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 433,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 434,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 435,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 436,
+    "location": "Hong Kong Island",
+    "building_year": 2015,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 437,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 438,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 439,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 440,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 441,
+    "location": "Kowloon",
+    "building_year": 1989,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 442,
+    "location": "New Territories",
+    "building_year": 1987,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 443,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 444,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 445,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 446,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 447,
+    "location": "Hong Kong Island",
+    "building_year": 2002,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 448,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 449,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 450,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 451,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 452,
+    "location": "Kowloon",
+    "building_year": 2016,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 453,
+    "location": "Kowloon",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 454,
+    "location": "Hong Kong Island",
+    "building_year": 2004,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 455,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 456,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 457,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 458,
+    "location": "Kowloon",
+    "building_year": 2002,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 459,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 460,
+    "location": "New Territories",
+    "building_year": 1996,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 461,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 462,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 463,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 464,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 465,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 466,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 467,
+    "location": "New Territories",
+    "building_year": 2021,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 468,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 469,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 470,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 471,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 472,
+    "location": "Kowloon",
+    "building_year": 1974,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 473,
+    "location": "Kowloon",
+    "building_year": 2018,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 474,
+    "location": "Kowloon",
+    "building_year": 2011,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 475,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 476,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 477,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 478,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 479,
+    "location": "New Territories",
+    "building_year": 1990,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 480,
+    "location": "Hong Kong Island",
+    "building_year": 1983,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 481,
+    "location": "Hong Kong Island",
+    "building_year": 2014,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 482,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 483,
+    "location": "Hong Kong Island",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 484,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 485,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 486,
+    "location": "Hong Kong Island",
+    "building_year": 1976,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 487,
+    "location": "New Territories",
+    "building_year": 2011,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 488,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 489,
+    "location": "Hong Kong Island",
+    "building_year": 1984,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 490,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 491,
+    "location": "Hong Kong Island",
+    "building_year": 2017,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 492,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 493,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 494,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 495,
+    "location": "Hong Kong Island",
+    "building_year": 1999,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 496,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 497,
+    "location": "Kowloon",
+    "building_year": 2012,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 498,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 499,
+    "location": "Kowloon",
+    "building_year": 1995,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 500,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 501,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 502,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 503,
+    "location": "Kowloon",
+    "building_year": 2011,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 504,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 505,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 506,
+    "location": "Hong Kong Island",
+    "building_year": 2004,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 507,
+    "location": "Kowloon",
+    "building_year": 1998,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 508,
+    "location": "Hong Kong Island",
+    "building_year": 1997,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 509,
+    "location": "Kowloon",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 510,
+    "location": "Kowloon",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 511,
+    "location": "Hong Kong Island",
+    "building_year": 2018,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 512,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 513,
+    "location": "Kowloon",
+    "building_year": 1987,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 514,
+    "location": "Kowloon",
+    "building_year": 2007,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 515,
+    "location": "Hong Kong Island",
+    "building_year": 2017,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 516,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 517,
+    "location": "New Territories",
+    "building_year": 2020,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 518,
+    "location": "Kowloon",
+    "building_year": 1983,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 519,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 520,
+    "location": "Hong Kong Island",
+    "building_year": 1975,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 521,
+    "location": "Hong Kong Island",
+    "building_year": 1992,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 522,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 523,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 524,
+    "location": "Hong Kong Island",
+    "building_year": 1996,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 525,
+    "location": "Kowloon",
+    "building_year": 2022,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 526,
+    "location": "Hong Kong Island",
+    "building_year": 1992,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 527,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 528,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 529,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 530,
+    "location": "Hong Kong Island",
+    "building_year": 1996,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 531,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 532,
+    "location": "Hong Kong Island",
+    "building_year": 1973,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 533,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 534,
+    "location": "Hong Kong Island",
+    "building_year": 1996,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 535,
+    "location": "Kowloon",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 536,
+    "location": "Kowloon",
+    "building_year": 2015,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 537,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 538,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 539,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 540,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 541,
+    "location": "Hong Kong Island",
+    "building_year": 1975,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 542,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 543,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 544,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 545,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 546,
+    "location": "New Territories",
+    "building_year": 1978,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 547,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 548,
+    "location": "Kowloon",
+    "building_year": 1973,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 549,
+    "location": "Kowloon",
+    "building_year": 1984,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 550,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 551,
+    "location": "Hong Kong Island",
+    "building_year": 2022,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 552,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 553,
+    "location": "New Territories",
+    "building_year": 1980,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 554,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 555,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 556,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 557,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 558,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 559,
+    "location": "Kowloon",
+    "building_year": 2002,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 560,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 561,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 562,
+    "location": "Kowloon",
+    "building_year": 1980,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 563,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 564,
+    "location": "Kowloon",
+    "building_year": 2009,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 565,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 566,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 567,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 568,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 569,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 570,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 571,
+    "location": "New Territories",
+    "building_year": 1998,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 572,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 573,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 574,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 575,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 576,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 577,
+    "location": "Kowloon",
+    "building_year": 2009,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 578,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 579,
+    "location": "Hong Kong Island",
+    "building_year": 1995,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 580,
+    "location": "Kowloon",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 581,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 582,
+    "location": "New Territories",
+    "building_year": 1987,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 583,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 584,
+    "location": "New Territories",
+    "building_year": 2000,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 585,
+    "location": "Hong Kong Island",
+    "building_year": 1975,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 586,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 587,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 588,
+    "location": "Kowloon",
+    "building_year": 2006,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 589,
+    "location": "New Territories",
+    "building_year": 1985,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 590,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 591,
+    "location": "Kowloon",
+    "building_year": 1986,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 592,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 593,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 594,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 595,
+    "location": "New Territories",
+    "building_year": 1982,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 596,
+    "location": "New Territories",
+    "building_year": 1996,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 597,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 598,
+    "location": "Kowloon",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 599,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 600,
+    "location": "Kowloon",
+    "building_year": 1977,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 601,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 602,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 603,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 604,
+    "location": "New Territories",
+    "building_year": 1980,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 605,
+    "location": "New Territories",
+    "building_year": 1990,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 606,
+    "location": "Hong Kong Island",
+    "building_year": 2012,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 607,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 608,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 609,
+    "location": "New Territories",
+    "building_year": 2000,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 610,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 611,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 612,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 613,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 614,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 615,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 616,
+    "location": "New Territories",
+    "building_year": 1975,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 617,
+    "location": "Hong Kong Island",
+    "building_year": 1996,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 618,
+    "location": "Kowloon",
+    "building_year": 2014,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 619,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 620,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 621,
+    "location": "Hong Kong Island",
+    "building_year": 1992,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 622,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 623,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 624,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 625,
+    "location": "Kowloon",
+    "building_year": 2007,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 626,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 627,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 628,
+    "location": "Hong Kong Island",
+    "building_year": 2005,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 629,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 630,
+    "location": "Kowloon",
+    "building_year": 1982,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 631,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 632,
+    "location": "Kowloon",
+    "building_year": 2014,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 633,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 634,
+    "location": "Hong Kong Island",
+    "building_year": 1998,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 635,
+    "location": "Hong Kong Island",
+    "building_year": 2006,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 636,
+    "location": "Kowloon",
+    "building_year": 1986,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 637,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 638,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 639,
+    "location": "Kowloon",
+    "building_year": 2005,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 640,
+    "location": "New Territories",
+    "building_year": 2008,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 641,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 642,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 643,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 644,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 645,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 646,
+    "location": "Kowloon",
+    "building_year": 2008,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 647,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 648,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 649,
+    "location": "New Territories",
+    "building_year": 2011,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 650,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 651,
+    "location": "New Territories",
+    "building_year": 2001,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 652,
+    "location": "Hong Kong Island",
+    "building_year": 2012,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 653,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 654,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 655,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 656,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 657,
+    "location": "Hong Kong Island",
+    "building_year": 2014,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 658,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 659,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 660,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 661,
+    "location": "Kowloon",
+    "building_year": 2011,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 662,
+    "location": "Kowloon",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 663,
+    "location": "Kowloon",
+    "building_year": 1998,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 664,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 665,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 666,
+    "location": "Kowloon",
+    "building_year": 1984,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 667,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 668,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 669,
+    "location": "New Territories",
+    "building_year": 2014,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 670,
+    "location": "Hong Kong Island",
+    "building_year": 2002,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 671,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 672,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 673,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 674,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 675,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 676,
+    "location": "Kowloon",
+    "building_year": 2019,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 677,
+    "location": "New Territories",
+    "building_year": 1991,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 678,
+    "location": "New Territories",
+    "building_year": 1997,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 679,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 680,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 681,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 682,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 683,
+    "location": "Kowloon",
+    "building_year": 2011,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 684,
+    "location": "Hong Kong Island",
+    "building_year": 1976,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 685,
+    "location": "Hong Kong Island",
+    "building_year": 2015,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 686,
+    "location": "Kowloon",
+    "building_year": 2006,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 687,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 688,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 689,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 690,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 691,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 692,
+    "location": "Hong Kong Island",
+    "building_year": 2022,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 693,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 694,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 695,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 696,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 697,
+    "location": "Hong Kong Island",
+    "building_year": 1979,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 698,
+    "location": "Hong Kong Island",
+    "building_year": 1980,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 699,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 700,
+    "location": "New Territories",
+    "building_year": 2018,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 701,
+    "location": "New Territories",
+    "building_year": 2011,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 702,
+    "location": "New Territories",
+    "building_year": 2018,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 703,
+    "location": "Hong Kong Island",
+    "building_year": 1978,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 704,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 705,
+    "location": "New Territories",
+    "building_year": 2020,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 706,
+    "location": "Kowloon",
+    "building_year": 2019,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 707,
+    "location": "New Territories",
+    "building_year": 2003,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 708,
+    "location": "New Territories",
+    "building_year": 2018,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 709,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 710,
+    "location": "Hong Kong Island",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 711,
+    "location": "Kowloon",
+    "building_year": 1984,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 712,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 713,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 714,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 715,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 716,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 717,
+    "location": "Kowloon",
+    "building_year": 1995,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 718,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 719,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 720,
+    "location": "New Territories",
+    "building_year": 1978,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 721,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 722,
+    "location": "Kowloon",
+    "building_year": 1993,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 723,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 724,
+    "location": "Hong Kong Island",
+    "building_year": 1991,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 725,
+    "location": "Hong Kong Island",
+    "building_year": 2018,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 726,
+    "location": "Hong Kong Island",
+    "building_year": 1995,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 727,
+    "location": "New Territories",
+    "building_year": 1996,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 728,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 729,
+    "location": "Hong Kong Island",
+    "building_year": 2008,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 730,
+    "location": "Hong Kong Island",
+    "building_year": 2014,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 731,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 732,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 733,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 734,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 735,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 736,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 737,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 738,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 739,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 740,
+    "location": "New Territories",
+    "building_year": 2011,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 741,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 742,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 743,
+    "location": "Hong Kong Island",
+    "building_year": 1986,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 744,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 745,
+    "location": "New Territories",
+    "building_year": 2016,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 746,
+    "location": "New Territories",
+    "building_year": 1974,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 747,
+    "location": "Kowloon",
+    "building_year": 2005,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 748,
+    "location": "New Territories",
+    "building_year": 2014,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 749,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 750,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 751,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 752,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 753,
+    "location": "New Territories",
+    "building_year": 2022,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 754,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 755,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 756,
+    "location": "Kowloon",
+    "building_year": 2013,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 757,
+    "location": "Kowloon",
+    "building_year": 1987,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 758,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 759,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 760,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 761,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 762,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 763,
+    "location": "Hong Kong Island",
+    "building_year": 2017,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 764,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 765,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 766,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 767,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 768,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 769,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 770,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 771,
+    "location": "Kowloon",
+    "building_year": 2017,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 772,
+    "location": "Kowloon",
+    "building_year": 2022,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 773,
+    "location": "New Territories",
+    "building_year": 2015,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 774,
+    "location": "Hong Kong Island",
+    "building_year": 2022,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 775,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 776,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 777,
+    "location": "Kowloon",
+    "building_year": 1975,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 778,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 779,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 780,
+    "location": "Kowloon",
+    "building_year": 1989,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 781,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 782,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 783,
+    "location": "Hong Kong Island",
+    "building_year": 2016,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 784,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 785,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 786,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 787,
+    "location": "Kowloon",
+    "building_year": 1984,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 788,
+    "location": "New Territories",
+    "building_year": 1980,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 789,
+    "location": "Hong Kong Island",
+    "building_year": 1998,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 790,
+    "location": "Hong Kong Island",
+    "building_year": 1978,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 791,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 792,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 793,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 794,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 795,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 796,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 797,
+    "location": "New Territories",
+    "building_year": 1981,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 798,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 799,
+    "location": "Kowloon",
+    "building_year": 2006,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 800,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 801,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 802,
+    "location": "Hong Kong Island",
+    "building_year": 2017,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 803,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 804,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 805,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 806,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 807,
+    "location": "Hong Kong Island",
+    "building_year": 1994,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 808,
+    "location": "Kowloon",
+    "building_year": 1973,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 809,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 810,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 811,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 812,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 813,
+    "location": "Hong Kong Island",
+    "building_year": 1982,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 814,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 815,
+    "location": "Kowloon",
+    "building_year": 1982,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 816,
+    "location": "Hong Kong Island",
+    "building_year": 1979,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 817,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 818,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 819,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 820,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 821,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 822,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 823,
+    "location": "Kowloon",
+    "building_year": 2002,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 824,
+    "location": "Hong Kong Island",
+    "building_year": 2011,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 825,
+    "location": "Hong Kong Island",
+    "building_year": 2015,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 826,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 827,
+    "location": "New Territories",
+    "building_year": 1985,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 828,
+    "location": "Kowloon",
+    "building_year": 1975,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 829,
+    "location": "Kowloon",
+    "building_year": 1981,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 830,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 831,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 832,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 833,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 834,
+    "location": "New Territories",
+    "building_year": 1973,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 835,
+    "location": "New Territories",
+    "building_year": 2020,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 836,
+    "location": "Kowloon",
+    "building_year": 2006,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 837,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 838,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 839,
+    "location": "New Territories",
+    "building_year": 1986,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 840,
+    "location": "New Territories",
+    "building_year": 1989,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 841,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 842,
+    "location": "Hong Kong Island",
+    "building_year": 2010,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 843,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 844,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 845,
+    "location": "New Territories",
+    "building_year": 1980,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 846,
+    "location": "New Territories",
+    "building_year": 2019,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 847,
+    "location": "Hong Kong Island",
+    "building_year": 2006,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 848,
+    "location": "New Territories",
+    "building_year": 1993,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 849,
+    "location": "New Territories",
+    "building_year": 1990,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 850,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 851,
+    "location": "Kowloon",
+    "building_year": 2006,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 852,
+    "location": "Hong Kong Island",
+    "building_year": 1985,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 853,
+    "location": "New Territories",
+    "building_year": 2007,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 854,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 855,
+    "location": "Kowloon",
+    "building_year": 2018,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 856,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 857,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 858,
+    "location": "Kowloon",
+    "building_year": 2020,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 859,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 860,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 861,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 862,
+    "location": "Kowloon",
+    "building_year": 2021,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 863,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 864,
+    "location": "Hong Kong Island",
+    "building_year": 2000,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 865,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 866,
+    "location": "New Territories",
+    "building_year": 1980,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 867,
+    "location": "New Territories",
+    "building_year": 2001,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 868,
+    "location": "Hong Kong Island",
+    "building_year": 2015,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 869,
+    "location": "Kowloon",
+    "building_year": 2003,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 870,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 871,
+    "location": "Kowloon",
+    "building_year": 2010,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 872,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 873,
+    "location": "Kowloon",
+    "building_year": 1993,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 874,
+    "location": "New Territories",
+    "building_year": 2013,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 875,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 876,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 877,
+    "location": "Hong Kong Island",
+    "building_year": 2007,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 878,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 879,
+    "location": "Hong Kong Island",
+    "building_year": 2019,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 880,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 881,
+    "location": "Hong Kong Island",
+    "building_year": 1999,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 882,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 883,
+    "location": "Hong Kong Island",
+    "building_year": 1997,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 884,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 885,
+    "location": "Hong Kong Island",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 886,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 887,
+    "location": "Kowloon",
+    "building_year": 1983,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 888,
+    "location": "Kowloon",
+    "building_year": 2012,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 889,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 890,
+    "location": "Hong Kong Island",
+    "building_year": 2011,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 891,
+    "location": "New Territories",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 892,
+    "location": "Hong Kong Island",
+    "building_year": 2004,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 893,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 894,
+    "location": "Hong Kong Island",
+    "building_year": 1979,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 895,
+    "location": "New Territories",
+    "building_year": 1978,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 896,
+    "location": "Hong Kong Island",
+    "building_year": 1993,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 897,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 898,
+    "location": "New Territories",
+    "building_year": 1988,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 899,
+    "location": "Kowloon",
+    "building_year": 2015,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 900,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 901,
+    "location": "Hong Kong Island",
+    "building_year": 2021,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 902,
+    "location": "Hong Kong Island",
+    "building_year": 1987,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 903,
+    "location": "Hong Kong Island",
+    "building_year": 1973,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 904,
+    "location": "Hong Kong Island",
+    "building_year": 2005,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 905,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 906,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 907,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 908,
+    "location": "New Territories",
+    "building_year": 2004,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 909,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 910,
+    "location": "Kowloon",
+    "building_year": 1999,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 911,
+    "location": "Hong Kong Island",
+    "building_year": 1977,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 912,
+    "location": "New Territories",
+    "building_year": 2019,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 913,
+    "location": "New Territories",
+    "building_year": 1975,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 914,
+    "location": "New Territories",
+    "building_year": 2017,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 915,
+    "location": "New Territories",
+    "building_year": 1995,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 916,
+    "location": "Hong Kong Island",
+    "building_year": 1987,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 917,
+    "location": "Hong Kong Island",
+    "building_year": 2011,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 918,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 919,
+    "location": "Hong Kong Island",
+    "building_year": 2002,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 920,
+    "location": "Kowloon",
+    "building_year": 2001,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 921,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 922,
+    "location": "Kowloon",
+    "building_year": 1991,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 923,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 924,
+    "location": "New Territories",
+    "building_year": 2002,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 925,
+    "location": "New Territories",
+    "building_year": 2021,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 926,
+    "location": "Kowloon",
+    "building_year": 1985,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 927,
+    "location": "New Territories",
+    "building_year": 2012,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 928,
+    "location": "Kowloon",
+    "building_year": 1988,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 929,
+    "location": "Hong Kong Island",
+    "building_year": 2002,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 930,
+    "location": "Kowloon",
+    "building_year": 1974,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 931,
+    "location": "New Territories",
+    "building_year": 2000,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 932,
+    "location": "Kowloon",
+    "building_year": 1978,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 933,
+    "location": "Hong Kong Island",
+    "building_year": 2001,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 934,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 935,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 936,
+    "location": "New Territories",
+    "building_year": 2019,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 937,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 938,
+    "location": "Kowloon",
+    "building_year": 1989,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 939,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 940,
+    "location": "New Territories",
+    "building_year": 1996,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 941,
+    "location": "New Territories",
+    "building_year": 2006,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 942,
+    "location": "Kowloon",
+    "building_year": 1973,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 943,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 944,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 945,
+    "location": "Kowloon",
+    "building_year": 1980,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 946,
+    "location": "New Territories",
+    "building_year": 2022,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 947,
+    "location": "Kowloon",
+    "building_year": 2005,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 948,
+    "location": "Hong Kong Island",
+    "building_year": 1978,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 949,
+    "location": "Kowloon",
+    "building_year": 2013,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 950,
+    "location": "Kowloon",
+    "building_year": 1990,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 951,
+    "location": "New Territories",
+    "building_year": 1987,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 952,
+    "location": "New Territories",
+    "building_year": 1994,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 953,
+    "location": "Hong Kong Island",
+    "building_year": 2022,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 954,
+    "location": "New Territories",
+    "building_year": 2010,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 955,
+    "location": "Kowloon",
+    "building_year": 1987,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 956,
+    "location": "Kowloon",
+    "building_year": 1992,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 957,
+    "location": "Hong Kong Island",
+    "building_year": 2003,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 958,
+    "location": "Hong Kong Island",
+    "building_year": 1994,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 959,
+    "location": "New Territories",
+    "building_year": 2008,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 960,
+    "location": "New Territories",
+    "building_year": 2019,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 961,
+    "location": "Hong Kong Island",
+    "building_year": 2015,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 962,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 963,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 964,
+    "location": "New Territories",
+    "building_year": 2009,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 965,
+    "location": "Kowloon",
+    "building_year": 2000,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 966,
+    "location": "Hong Kong Island",
+    "building_year": 2009,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 967,
+    "location": "New Territories",
+    "building_year": 1984,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 968,
+    "location": "New Territories",
+    "building_year": 1976,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 969,
+    "location": "Hong Kong Island",
+    "building_year": 1976,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 970,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 971,
+    "location": "New Territories",
+    "building_year": 1999,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 972,
+    "location": "Hong Kong Island",
+    "building_year": 2002,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 973,
+    "location": "New Territories",
+    "building_year": 1977,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 974,
+    "location": "Hong Kong Island",
+    "building_year": 1989,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 975,
+    "location": "New Territories",
+    "building_year": 1992,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 976,
+    "location": "New Territories",
+    "building_year": 1978,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 977,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 978,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 979,
+    "location": "Kowloon",
+    "building_year": 1997,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 980,
+    "location": "Kowloon",
+    "building_year": 1996,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 981,
+    "location": "New Territories",
+    "building_year": 1998,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 982,
+    "location": "Hong Kong Island",
+    "building_year": 1988,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 983,
+    "location": "Kowloon",
+    "building_year": 1982,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 984,
+    "location": "New Territories",
+    "building_year": 1983,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 985,
+    "location": "Kowloon",
+    "building_year": 1980,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 986,
+    "location": "Kowloon",
+    "building_year": 2014,
+    "primary_property_type": "Other"
+  },
+  {
+    "id": 987,
+    "location": "Hong Kong Island",
+    "building_year": 2013,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 988,
+    "location": "Hong Kong Island",
+    "building_year": 1984,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 989,
+    "location": "Hong Kong Island",
+    "building_year": 1991,
+    "primary_property_type": "Leisure"
+  },
+  {
+    "id": 990,
+    "location": "Hong Kong Island",
+    "building_year": 1981,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 991,
+    "location": "Kowloon",
+    "building_year": 2004,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 992,
+    "location": "Kowloon",
+    "building_year": 1979,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 993,
+    "location": "New Territories",
+    "building_year": 1996,
+    "primary_property_type": "Education"
+  },
+  {
+    "id": 994,
+    "location": "New Territories",
+    "building_year": 1979,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 995,
+    "location": "Hong Kong Island",
+    "building_year": 2011,
+    "primary_property_type": "Office"
+  },
+  {
+    "id": 996,
+    "location": "Hong Kong Island",
+    "building_year": 2014,
+    "primary_property_type": "Housing"
+  },
+  {
+    "id": 997,
+    "location": "New Territories",
+    "building_year": 1990,
+    "primary_property_type": "Retail"
+  },
+  {
+    "id": 998,
+    "location": "Hong Kong Island",
+    "building_year": 2020,
+    "primary_property_type": "Health"
+  },
+  {
+    "id": 999,
+    "location": "Hong Kong Island",
+    "building_year": 1974,
+    "primary_property_type": "Housing"
+  }
+]
