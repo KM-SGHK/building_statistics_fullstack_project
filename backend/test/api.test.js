@@ -4,7 +4,7 @@ import sinonChai from "sinon-chai";
 import { app } from "../app.js";
 
 chai.use(sinonChai);
-const { expect, equal } = chai;
+const { expect } = chai;
 const server = supertest.agent(app);
 const credentials = {
   username: "Peter Lam",
