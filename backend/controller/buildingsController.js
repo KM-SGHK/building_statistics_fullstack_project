@@ -11,7 +11,6 @@ export class BuildingsController {
   fetchEUI = async (request, response) => {
     try {
       let result = await this.buildingService.getEUIFromDB();
-      console.log("1")
       if (result.isFetchingSuccessful) {
         response.status(200).json({
           success: true,
@@ -20,14 +19,12 @@ export class BuildingsController {
       }
 
       if (!result.isFetchingSuccessful) {
-        console.log("2")
         response.status(500).json({
           success: false,
           error: result.error,
         });
       }
     } catch (e) {
-      console.log("3")
       response.status(500).json({
         error: e.message,
       });

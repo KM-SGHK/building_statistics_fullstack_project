@@ -2,15 +2,15 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 import bodyParser from "body-parser";
-import morgan from "morgan"
+import morgan from "morgan";
 
 dotenv.config();
-const app = express();
+export const app = express();
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 // api logging
-app.use(morgan("combined"))
+app.use(morgan("combined"));
 
 // routes
 import { buildingsRoutes } from "./routes/buildings.js";
